@@ -27,7 +27,7 @@ python helicopter-game.py
 
 ## Acknowledgments
 
-This project was inspired by and follows a tutorial by [Coding With Russ](https://www.youtube.com/channel/UCRQv-5-2Z8H2XWgVxMxlJbw). Specifically, the tutorial can be found in this [video](https://www.youtube.com/watch?v=W-3okcjOFnY&list=PLsFyHm8kJsx32EFcsJNt5sDI_nKsanRUu&index=20). I highly recommend checking out their channel for more great coding tutorials.
+This project was inspired by and follows a tutorial [video](https://www.youtube.com/watch?v=W-3okcjOFnY&list=PLsFyHm8kJsx32EFcsJNt5sDI_nKsanRUu&index=20). I highly recommend checking out that channel for more great coding tutorials.
 
 ## License
 
